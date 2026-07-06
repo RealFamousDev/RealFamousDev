@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/RealFamousDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Famous+Dev;Node.js+Backend+%26+Bot+Developer;Building+Xeno.js+%E2%80%94+WhatsApp+Bot+Manager;Baileys+%7C+Telegram+Bot+API+%7C+Automation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Famous+Dev;Node.js+Backend+%26+Bot+Developer;Building+XENO-XD+%E2%80%94+WhatsApp+Bot+Manager;Baileys+%7C+Telegram+Bot+API+%7C+Automation" />
   </a>
 </p>
 
@@ -57,22 +57,22 @@
   <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=RealFamousDev&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealFamousDev&theme=tokyonight" width="100%">
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RealFamousDev&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RealFamousDev&theme=tokyonight" width="45%">
+  </p>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealFamousDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealFamousDev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RealFamousDev&theme=tokyonight" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RealFamousDev&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=RealFamousDev&data=followers,repositories,stars,commits&theme=nautical"/>
+</div>
 
 <h3 align="center">📈 Contribution Graph</h3>
 
