@@ -15,10 +15,10 @@
   </a>
 </p>
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center">🚀 ABOUT ME</h3>
 
 <p align="center">
-  🔭 Currently building <b>Xeno.js</b> — a WhatsApp bot manager that connects accounts via pairing codes through a Telegram interface<br/>
+  🔭 Currently building <b>XENO-XD</b> — a WhatsApp bot manager that connects accounts via pairing codes through a Telegram interface<br/>
   🛠️ Working with <b>Node.js</b>, <b>Baileys</b>, <b>node-telegram-bot-api</b><br/>
   🌱 Deep into multi-session WhatsApp connection handling & bot architecture<br/>
   💬 Ask me about Baileys, Telegram bots, or Node.js backend systems<br/>
@@ -28,16 +28,16 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <a href="https://wa.me/YOUR_NUMBER">
+  <a href="https://wa.me/2347026441048">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/YOUR_CHANNEL">
+  <a href="https://whatsapp.com/channel/0029Vb6ueHI3rZZl6jHNms0A">
     <img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/Famous_X_Tech1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL">
+  <a href="https://youtube.com/@RealXenoTech">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealFamousDev&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=RealFamousDev&theme=tokyonight" />
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
