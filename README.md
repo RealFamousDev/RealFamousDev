@@ -18,6 +18,7 @@
 <h3 align="center">🚀 ABOUT ME</h3>
 
 <p align="center">
+     FOUNDER OF XENO TECH OFFICIAL<br/>
   🔭 Currently building <b>XENO-XD</b> — a WhatsApp bot manager that connects accounts via pairing codes through a Telegram interface<br/>
   🛠️ Working with <b>Node.js</b>, <b>Baileys</b>, <b>node-telegram-bot-api</b><br/>
   🌱 Deep into multi-session WhatsApp connection handling & bot architecture<br/>
